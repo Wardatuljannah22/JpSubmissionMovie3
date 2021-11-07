@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JetpackPro-Submission3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Judul Item</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="description">Film/TvShow ini berkisah tentang petualangan spongebob di daratan,bagaimana kelanjutannya</string>
+    <string name="release_date_label">Release Date :</string>
+    <string name="overview_label">Overview</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="imagerating">ImageRating</string>
+    <string name="imageleagague">ImageLeagague</string>
+    <string name="imageduration">ImageDuration</string>
+    <string name="movies">Movies</string>
+    <string name="tvShow">TV Shows</string>
+    <string name="title_movies">Movies</string>
+    <string name="error_message">Something when wrong!</string>
+    <string name="title_tvShow">TvShow</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_tv_show">Favorite TvShow</string>
+    <string name="remove_from_favorite">Hapus Dari Favorite</string>
+    <string name="add_to_favorite">Tambah Ke Favorite</string>
+    <string name="title_navigation">Movies</string>
+    <string name="tambah_favorite">Tambah Ke Favorite</string>
+    <string name="title_navigation2">Tv Shows</string>
+    <string name="title_navigation3">Favorite</string>
+    <string name="buttonfavorite">ButtonFavorite</string>
+
+</resources>
